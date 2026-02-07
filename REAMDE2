@@ -1,0 +1,91 @@
+🛠️ KaamSetu
+
+KaamSetu is a real-time service platform that connects customers with nearby skilled workers such as plumbers, electricians, and carpenters. The platform focuses on speed, trust, and transparency using live location, instant notifications, OTP verification, and post-work payments.
+
+🚀 Problem Statement
+
+Finding reliable local service workers is often slow, unorganized, and unsafe. Customers face delays, while workers miss opportunities due to lack of instant communication. There is no proper system to verify job completion or ensure fair payment.
+
+💡 Solution
+
+KaamSetu solves this by:
+
+Instantly notifying nearby workers when a job is posted
+
+Using live location to match customers and workers efficiently
+
+Verifying worker arrival through OTP before work starts
+
+Allowing payments only after job completion
+
+This creates a fast, trusted, and real-world usable workflow.
+
+🔄 Workflow Overview
+Customer Flow
+
+Login as Customer
+
+Post a job with service details and live location
+
+Track worker status in real time
+
+Share OTP when worker reaches
+
+Pay after job completion
+
+Worker Flow
+
+Login as Worker
+
+Receive instant job notifications
+
+Accept nearby jobs
+
+Reach customer location and verify OTP
+
+Complete job and receive payment
+
+🔔 Key Features
+
+Real-time job notifications
+
+Live location-based job matching
+
+OTP-based job start verification
+
+Clear job status flow
+
+Mock payment after completion
+
+Mobile-first, clean UI/UX
+
+🧩 Job Status Flow
+POSTED → ACCEPTED → ON_THE_WAY → REACHED → OTP_VERIFIED → COMPLETED → PAID
+
+🛠️ Tech Stack
+
+Frontend: Web-based UI (mobile-first)
+
+Backend: API-based architecture
+
+Database: Built-in lightweight database
+
+Realtime: WebSockets / Realtime subscriptions
+
+Maps & Location: Browser Geolocation API
+
+Payments: Mock / simulated
+
+🎯 Use Case
+
+Local service platforms
+
+Informal gig worker systems
+
+Hackathons & rapid demos
+
+Smart city & digital India initiatives
+
+🏁 Conclusion
+
+KaamSetu brings structure, speed, and trust to informal service work by combining real-time communication, location awareness, and verification mechanisms into one simple platform.
